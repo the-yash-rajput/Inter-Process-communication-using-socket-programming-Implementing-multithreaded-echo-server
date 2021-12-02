@@ -11,5 +11,6 @@ The server.c file contains the code for server and can be compiled with command 
 
 The client-socket.c file contains the code for client and can be compiled with command gcc -o client client.c -lpthread
 
-Now fire the server with ./server command from terminal
-Now fire the client with ./client command from different terminal.
+-Now fire the server with ./server command from terminal 
+<br>
+-Now fire the client with ./client command from different terminal.
